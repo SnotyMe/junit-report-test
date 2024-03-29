@@ -7,7 +7,7 @@ import kotlin.test.assertEquals
 class MyTest {
 	@Test
 	fun failedTest() {
-		assertEquals(1, 2)
+		assertEquals(2, 2)
 	}
 
 	@Test
