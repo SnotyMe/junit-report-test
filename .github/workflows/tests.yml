@@ -1,4 +1,6 @@
 name: Test
+permissions:
+  checks: write
 on:
   - push
   - pull_request_target
