@@ -12,6 +12,6 @@ class MyTest {
 
 	@Test
 	fun workingTest() {
-		assertEquals(1, 1)
+		assertEquals(0, 0)
 	}
 }
